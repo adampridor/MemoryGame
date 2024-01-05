@@ -6,13 +6,142 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
+    <ImageView
+        android:id="@+id/image_31"
+        android:layout_width="81dp"
+        android:layout_height="103dp"
+        app:srcCompat="@drawable/king_of_hearts"
+        tools:layout_editor_absoluteX="118dp"
+        tools:layout_editor_absoluteY="440dp" />
+
+    <ImageView
+        android:id="@+id/image_33"
+        android:layout_width="81dp"
+        android:layout_height="103dp"
+        app:srcCompat="@drawable/king_of_hearts"
+        tools:layout_editor_absoluteX="296dp"
+        tools:layout_editor_absoluteY="440dp" />
+
+    <ImageView
+        android:id="@+id/image_32"
+        android:layout_width="81dp"
+        android:layout_height="103dp"
+        app:srcCompat="@drawable/king_of_hearts"
+        tools:layout_editor_absoluteX="206dp"
+        tools:layout_editor_absoluteY="440dp" />
+
+    <ImageView
+        android:id="@+id/image_30"
+        android:layout_width="81dp"
+        android:layout_height="103dp"
+        app:srcCompat="@drawable/king_of_hearts"
+        tools:layout_editor_absoluteX="29dp"
+        tools:layout_editor_absoluteY="440dp" />
+
+    <ImageView
+        android:id="@+id/image_13"
+        android:layout_width="81dp"
+        android:layout_height="103dp"
+        app:srcCompat="@drawable/king_of_hearts"
+        tools:layout_editor_absoluteX="296dp"
+        tools:layout_editor_absoluteY="213dp" />
+
+    <ImageView
+        android:id="@+id/image_00"
+        android:layout_width="81dp"
+        android:layout_height="103dp"
+        app:srcCompat="@drawable/king_of_hearts"
+        tools:layout_editor_absoluteX="29dp"
+        tools:layout_editor_absoluteY="99dp" />
+
+    <ImageView
+        android:id="@+id/image_12"
+        android:layout_width="81dp"
+        android:layout_height="103dp"
+        app:srcCompat="@drawable/king_of_hearts"
+        tools:layout_editor_absoluteX="206dp"
+        tools:layout_editor_absoluteY="213dp" />
+
+    <ImageView
+        android:id="@+id/image_11"
+        android:layout_width="81dp"
+        android:layout_height="103dp"
+        app:srcCompat="@drawable/king_of_hearts"
+        tools:layout_editor_absoluteX="118dp"
+        tools:layout_editor_absoluteY="213dp" />
+
+    <ImageView
+        android:id="@+id/image_10"
+        android:layout_width="81dp"
+        android:layout_height="103dp"
+        app:srcCompat="@drawable/king_of_hearts"
+        tools:layout_editor_absoluteX="29dp"
+        tools:layout_editor_absoluteY="213dp" />
+
+    <ImageView
+        android:id="@+id/image_02"
+        android:layout_width="81dp"
+        android:layout_height="103dp"
+        app:srcCompat="@drawable/king_of_hearts"
+        tools:layout_editor_absoluteX="206dp"
+        tools:layout_editor_absoluteY="99dp" />
+
+    <ImageView
+        android:id="@+id/image_01"
+        android:layout_width="81dp"
+        android:layout_height="103dp"
+        app:srcCompat="@drawable/king_of_hearts"
+        tools:layout_editor_absoluteX="118dp"
+        tools:layout_editor_absoluteY="99dp" />
+
+    <ImageView
+        android:id="@+id/image_03"
+        android:layout_width="81dp"
+        android:layout_height="103dp"
+        app:srcCompat="@drawable/king_of_hearts"
+        tools:layout_editor_absoluteX="296dp"
+        tools:layout_editor_absoluteY="99dp" />
+
+    <ImageView
+        android:id="@+id/image_20"
+        android:layout_width="81dp"
+        android:layout_height="103dp"
+        app:srcCompat="@drawable/king_of_hearts"
+        tools:layout_editor_absoluteX="29dp"
+        tools:layout_editor_absoluteY="327dp" />
+
+    <ImageView
+        android:id="@+id/image_21"
+        android:layout_width="81dp"
+        android:layout_height="103dp"
+        app:srcCompat="@drawable/king_of_hearts"
+        tools:layout_editor_absoluteX="118dp"
+        tools:layout_editor_absoluteY="327dp" />
+
+    <ImageView
+        android:id="@+id/image_22"
+        android:layout_width="81dp"
+        android:layout_height="103dp"
+        app:srcCompat="@drawable/king_of_hearts"
+        tools:layout_editor_absoluteX="206dp"
+        tools:layout_editor_absoluteY="327dp" />
+
+    <ImageView
+        android:id="@+id/image_23"
+        android:layout_width="81dp"
+        android:layout_height="103dp"
+        app:srcCompat="@drawable/king_of_hearts"
+        tools:layout_editor_absoluteX="296dp"
+        tools:layout_editor_absoluteY="327dp" />
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!"
+        android:text=""
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
